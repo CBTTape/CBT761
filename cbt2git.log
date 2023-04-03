@@ -1,0 +1,15 @@
+2023-04-03 02:28:35.747939 - Initialized conversion of CBT761
+2023-04-03 02:28:35.844121 - Received CBT.V504.FILE761.PDS from FILE761.XMI 
+2023-04-03 02:28:35.847061 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:28:35.848102 - Found $$$INDEX.txt (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/$$$INDEX
+2023-04-03 02:28:35.849468 - Found $$README.txt (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/$$README
+2023-04-03 02:28:35.850514 - Found $INSTALL.txt (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/$INSTALL
+2023-04-03 02:28:35.851464 - Found #FINDLPA.rexx (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/#FINDLPA
+2023-04-03 02:28:35.852561 - Found #FINDMOD.rexx (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/#FINDMOD
+2023-04-03 02:28:35.853544 - Found #GENFIND.rexx (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/#GENFIND
+2023-04-03 02:28:35.854603 - Found #SYSID.rexx (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/#SYSID
+2023-04-03 02:28:35.855628 - Found @FILE761.txt (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/@FILE761
+2023-04-03 02:28:35.856701 - Found FINDALL.rexx (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/FINDALL
+2023-04-03 02:28:35.857647 - Found FINDPAN.rexx (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/FINDPAN
+2023-04-03 02:28:35.858488 - Found FINDPARM.rexx (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/FINDPARM
+2023-04-03 02:28:35.859526 - Found FINDPROC.rexx (text/plain) in CBT.V504.FILE761.PDS, moved to PDS/FINDPROC
